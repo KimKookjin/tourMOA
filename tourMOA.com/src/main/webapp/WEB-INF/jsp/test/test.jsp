@@ -13,8 +13,7 @@
 <body>
 <c:forEach items="${result }" var="rs">
 ${rs.deptno }
-안녕하세요.
-안녕하세요.2
+안녕하냐
 </c:forEach>
 </body>
 </html>
