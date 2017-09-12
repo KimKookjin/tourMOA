@@ -14,6 +14,7 @@
 <c:forEach items="${result }" var="rs">
 ${rs.deptno }
 안녕하세요.
+안녕하세요.2
 </c:forEach>
 </body>
 </html>
