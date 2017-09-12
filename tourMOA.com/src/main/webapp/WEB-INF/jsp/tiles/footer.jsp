@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-=====footer=====바뀌라고시팔아
+=====footer=====
 </body>
 </html>
