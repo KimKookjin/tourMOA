@@ -1,5 +1,10 @@
+
+
 /* QUICK MENU BTN CLICK FUNC s */
+
   $(document).ready(function(){
+	  
+	  
 	  /* 여행 상품 찾기  s */
     $(".finder").click(function(){
        	$(".finder").css({
@@ -42,7 +47,10 @@
     /* X BTN CLICK  e */    
         
     });
+  
   /* QUICK MENU BTN CLICK FUNC e */
+  
+  
 	/* TOP BTN CLICK  */
 $(function() {
     
