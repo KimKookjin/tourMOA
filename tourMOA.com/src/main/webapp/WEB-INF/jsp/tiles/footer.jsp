@@ -7,6 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-SLAVE ==> MASTER
+<div id="footer">
+Footer
+</div>
 </body>
 </html>
