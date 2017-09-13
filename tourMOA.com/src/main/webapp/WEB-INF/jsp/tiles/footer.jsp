@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-=====footer=====slave test
+
 </body>
 </html>
